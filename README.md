@@ -1,6 +1,6 @@
 # 🦋 Algorithm Problem Solving 🦋
 
-| 번호 |   날짜   | 문제 | 언어 | 비고 |
+| # |   date   | solve | language | etc. |
 | :---: | :----------: | :---------------: | :---: | :---: |
 | 8 | 2021. 10. 18. | [[72411] 메뉴리뉴얼](https://github.com/youngkwon02/AlgoPS/blob/main/Kakao/Level2/72411-%EB%A9%94%EB%89%B4%EB%A6%AC%EB%89%B4%EC%96%BC.py) | <img src="https://img.shields.io/badge/python-informational?style=flat&logo=python&logoColor=yellow"/> | Kakao/Level2 |
 | 7 | 2021. 10. 18. | [[60058] 괄호변환](https://github.com/youngkwon02/AlgoPS/blob/main/Kakao/Level2/60058-%EA%B4%84%ED%98%B8%EB%B3%80%ED%99%98.py) | <img src="https://img.shields.io/badge/python-informational?style=flat&logo=python&logoColor=yellow"/> | Kakao/Level2 |
