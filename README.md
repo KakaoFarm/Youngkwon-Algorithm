@@ -2,6 +2,7 @@
 
 | # |   date   | solve | language | etc. |
 | :---: | :----------: | :---------------: | :---: | :---: |
+| 10 | 2021. 10. 23. | [[1057] 토너먼트](https://github.com/youngkwon02/AlgoPS/blob/main/Baekjoon/1057-%ED%86%A0%EB%84%88%EB%A8%BC%ED%8A%B8.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver III |
 | 9 | 2021. 10. 23. | [[1010] 다리놓기](https://github.com/youngkwon02/AlgoPS/blob/main/Baekjoon/1010-%EB%8B%A4%EB%A6%AC%EB%86%93%EA%B8%B0.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver V |
 | 8 | 2021. 10. 18. | [[72411] 메뉴리뉴얼](https://github.com/youngkwon02/AlgoPS/blob/main/Kakao/Level2/72411-%EB%A9%94%EB%89%B4%EB%A6%AC%EB%89%B4%EC%96%BC.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Kakao/Level2 |
 | 7 | 2021. 10. 18. | [[60058] 괄호변환](https://github.com/youngkwon02/AlgoPS/blob/main/Kakao/Level2/60058-%EA%B4%84%ED%98%B8%EB%B3%80%ED%99%98.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Kakao/Level2 |
