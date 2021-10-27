@@ -2,9 +2,9 @@ import ast
 
 
 def solution(s):
-    arr = s.replace('{', '[')
-    arr = arr.replace('}', ']')
-    arr = ast.literal_eval(arr)
+    s = s.replace('{', '[')
+    s = s.replace('}', ']')
+    arr = ast.literal_eval(s)
     arr = sorted(arr, key=lambda x: len(x))
 
     answer = []
