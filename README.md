@@ -1,7 +1,11 @@
+<div align=center>
+
 # 🦋 Algorithm Problem Solving 🦋
 
 | # |   date   | solve | language | etc. |
 | :---: | :----------: | :---------------: | :---: | :---: |
+| 14 | 2021. 10. 27. | [[64065] 튜플](https://github.com/youngkwon02/Algorithm-PS/blob/main/Kakao/Level2/64065-%ED%8A%9C%ED%94%8C.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Kakao/Level2 |
+| 13 | 2021. 10. 26. | [[81302] 거리두기 확인하기](https://github.com/youngkwon02/Algorithm-PS/blob/main/Kakao/Level2/81302-%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Kakao/Level2 |
 | 12 | 2021. 10. 24. | [[2304] 창고 다각형](https://github.com/youngkwon02/Algorithm-PS/blob/main/Baekjoon/2304-%EC%B0%BD%EA%B3%A0%EB%8B%A4%EA%B0%81%ED%98%95.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver II |
 | 11 | 2021. 10. 23. | [[1080] 행렬](https://github.com/youngkwon02/AlgoPS/blob/main/Baekjoon/1080-%ED%96%89%EB%A0%AC.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver II |
 | 10 | 2021. 10. 23. | [[1057] 토너먼트](https://github.com/youngkwon02/AlgoPS/blob/main/Baekjoon/1057-%ED%86%A0%EB%84%88%EB%A8%BC%ED%8A%B8.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver III |
@@ -14,3 +18,5 @@
 | 3 | 2021. 10. 01. | [[60057] 문자열 압축](https://github.com/youngkwon02/AlgoPS/blob/main/Kakao/Level2/60057-%EB%AC%B8%EC%9E%90%EC%97%B4%EC%95%95%EC%B6%95.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Kakao/Level2 |
 | 2 | 2021. 09. 18. | [[43165] Target-Number](https://github.com/youngkwon02/AlgoPS/blob/main/Programmers/43165-Target-Number.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Programmers/Recursion |
 | 1 | 2021. 09. 16. | [[11729] Hanoi-Tower](https://github.com/youngkwon02/AlgoPS/blob/main/Baekjoon/11729-Hanoi-Tower.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon/Recursion - Silver II |
+
+  </div>
