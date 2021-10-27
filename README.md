@@ -1,3 +1,5 @@
+<div align=center>
+
 # 🦋 Algorithm Problem Solving 🦋
 
 | # |   date   | solve | language | etc. |
@@ -16,3 +18,5 @@
 | 3 | 2021. 10. 01. | [[60057] 문자열 압축](https://github.com/youngkwon02/AlgoPS/blob/main/Kakao/Level2/60057-%EB%AC%B8%EC%9E%90%EC%97%B4%EC%95%95%EC%B6%95.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Kakao/Level2 |
 | 2 | 2021. 09. 18. | [[43165] Target-Number](https://github.com/youngkwon02/AlgoPS/blob/main/Programmers/43165-Target-Number.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Programmers/Recursion |
 | 1 | 2021. 09. 16. | [[11729] Hanoi-Tower](https://github.com/youngkwon02/AlgoPS/blob/main/Baekjoon/11729-Hanoi-Tower.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon/Recursion - Silver II |
+
+  </div>
