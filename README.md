@@ -4,6 +4,7 @@
 
 | # |   date   | solve | language | etc. |
 | :---: | :----------: | :---------------: | :---: | :---: |
+| 16 | 2021. 11. 01. | [[14501] 퇴사](https://github.com/youngkwon02/Algorithm-PS/blob/main/Baekjoon/14501-%ED%87%B4%EC%82%AC.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | 삼성 SW 역량 테스트 / Baekjoon - Silver III |  
 | 15 | 2021. 10. 28. | [[67257] 수식최대화](https://github.com/youngkwon02/Algorithm-PS/blob/main/Kakao/Level2/67257-%EC%88%98%EC%8B%9D%EC%B5%9C%EB%8C%80%ED%99%94.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Kakao/Level2 |
 | 14 | 2021. 10. 27. | [[64065] 튜플](https://github.com/youngkwon02/Algorithm-PS/blob/main/Kakao/Level2/64065-%ED%8A%9C%ED%94%8C.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Kakao/Level2 |
 | 13 | 2021. 10. 26. | [[81302] 거리두기 확인하기](https://github.com/youngkwon02/Algorithm-PS/blob/main/Kakao/Level2/81302-%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Kakao/Level2 |
