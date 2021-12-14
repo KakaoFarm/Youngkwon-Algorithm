@@ -1,7 +1,8 @@
 <div align=center>
 
-# 🦋 Algorithm Problem Solving 🦋
-
+# 🦋 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺 𝗣𝗿𝗼𝗯𝗹𝗲𝗺 𝗦𝗼𝗹𝘃𝗶𝗻𝗴 🦋
+<br>
+  
 | # |   date   | solve | language | etc. |
 | :---: | :----------: | :---------------: | :---: | :---: |
 | 20 | 2021. 12. 14. | [[17679] 프렌즈4블록](https://github.com/youngkwon02/Algorithm-PS/blob/main/Kakao/Recruitment/17679-%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | 2018 KAKAO BLIND RECRUITMENT |  
