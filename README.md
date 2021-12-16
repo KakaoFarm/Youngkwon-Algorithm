@@ -5,6 +5,7 @@
   
 | # |   date   | solve | language | etc. |
 | :---: | :----------: | :---------------: | :---: | :---: |
+| 21 | 2021. 12. 16. | [[17680] 캐시](https://github.com/youngkwon02/Algorithm-PS/blob/main/Kakao/Recruitment/17680-%EC%BA%90%EC%8B%9C.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | 2018 KAKAO BLIND RECRUITMENT |  
 | 20 | 2021. 12. 14. | [[17679] 프렌즈4블록](https://github.com/youngkwon02/Algorithm-PS/blob/main/Kakao/Recruitment/17679-%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | 2018 KAKAO BLIND RECRUITMENT |  
 | 19 | 2021. 12. 13. | [[42890] 후보키](https://github.com/youngkwon02/Algorithm-PS/blob/main/Kakao/Recruitment/42890-%ED%9B%84%EB%B3%B4%ED%82%A4.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | 2019 KAKAO BLIND RECRUITMENT |  
 | 18 | 2021. 11. 06. | [[72412] 순위검색](https://github.com/youngkwon02/Algorithm-PS/blob/main/Kakao/Recruitment/72412-%EC%88%9C%EC%9C%84%EA%B2%80%EC%83%89.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | 2021 KAKAO BLIND RECRUITMENT |  
