@@ -18,7 +18,7 @@ def solution():
       visit[elem] = True
       new_elem += [elem-1, elem+1, elem*2]
     for ne in new_elem:
-      if ne <= MAX_INDEX and not visit[ne]:
+      if 0 <= ne and ne <= MAX_INDEX and not visit[ne]:
         queue.append(ne)
     new_elem = []
     time += 1
