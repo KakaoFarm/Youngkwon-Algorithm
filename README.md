@@ -5,6 +5,8 @@
   
 | # |   date   | solve | language | etc. |
 | :---: | :----------: | :---------------: | :---: | :---: |
+| 30 | 2021. 12. 26. | [[1927] 최소 힙](https://github.com/youngkwon02/Algorithm-PS/blob/main/Baekjoon/1927-%EC%B5%9C%EC%86%8C%ED%9E%99.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver I |  
+| 29 | 2021. 12. 26. | [[1697] 숨바꼭질](https://github.com/youngkwon02/Algorithm-PS/blob/main/Baekjoon/1697-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver I |  
 | 28 | 2021. 12. 23. | [[1764] 듣보잡](https://github.com/youngkwon02/Algorithm-PS/blob/main/Baekjoon/1764-%EB%93%A3%EB%B3%B4%EC%9E%A1.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver IV |  
 | 27 | 2021. 12. 23. | [[1074] Z](https://github.com/youngkwon02/Algorithm-PS/blob/main/Baekjoon/1074-Z.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver I |  
 | 26 | 2021. 12. 22. | [[1463] 1로 만들기](https://github.com/youngkwon02/Algorithm-PS/blob/main/Baekjoon/1463-1%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B0.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver III |  
