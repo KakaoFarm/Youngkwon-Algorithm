@@ -5,6 +5,7 @@
   
 | # |   date   | solve | language | etc. |
 | :---: | :----------: | :---------------: | :---: | :---: |
+| 34 | 2021. 12. 29. | [[7576] 토마토](https://github.com/youngkwon02/Algorithm-PS/blob/main/Baekjoon/7576-%ED%86%A0%EB%A7%88%ED%86%A0.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver I |  
 | 33 | 2021. 12. 28. | [[2630] 색종이 만들기](https://github.com/youngkwon02/Algorithm-PS/blob/main/Baekjoon/2630-%EC%83%89%EC%A2%85%EC%9D%B4%EB%A7%8C%EB%93%A4%EA%B8%B0.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver III |  
 | 32 | 2021. 12. 27. | [[2606] 바이러스](https://github.com/youngkwon02/Algorithm-PS/blob/main/Baekjoon/2606-%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver III |  
 | 31 | 2021. 12. 27. | [[1931] 회의실 배정](https://github.com/youngkwon02/Algorithm-PS/blob/main/Baekjoon/1931-%ED%9A%8C%EC%9D%98%EC%8B%A4%EB%B0%B0%EC%A0%95.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver II |  
