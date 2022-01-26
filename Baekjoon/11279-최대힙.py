@@ -1,4 +1,3 @@
-from re import A
 import sys
 from queue import PriorityQueue
 
