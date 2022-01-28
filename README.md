@@ -5,6 +5,7 @@
   
 | # |   date   | solve | language | etc. |
 | :---: | :----------: | :---------------: | :---: | :---: |
+| 42 | 2022. 01. 28. | [[1043] 거짓말](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1043-%EA%B1%B0%EC%A7%93%EB%A7%90.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold IV |  
 | 41 | 2022. 01. 28. | [[1339] 단어 수학](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1339-%EB%8B%A8%EC%96%B4%EC%88%98%ED%95%99.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold IV |  
 | 40 | 2022. 01. 27. | [[18870] 좌표 압축](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/18870-%EC%A2%8C%ED%91%9C%EC%95%95%EC%B6%95.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver II | 
 | 39 | 2022. 01. 27. | [[11726] 2xN 타일링](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/11726-2xN%ED%83%80%EC%9D%BC%EB%A7%81.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver III | 
