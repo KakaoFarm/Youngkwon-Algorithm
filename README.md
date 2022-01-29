@@ -5,6 +5,7 @@
   
 | # |   date   | solve | language | etc. |
 | :---: | :----------: | :---------------: | :---: | :---: |
+| 45 | 2022. 01. 29. | [[1240] 노드사이의 거리](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1240-%EB%85%B8%EB%93%9C%EC%82%AC%EC%9D%B4%EC%9D%98%EA%B1%B0%EB%A6%AC.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold V |  
 | 44 | 2022. 01. 29. | [[2023] 신기한 소수](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/2023-%EC%8B%A0%EA%B8%B0%ED%95%9C%EC%86%8C%EC%88%98.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold V |  
 | 43 | 2022. 01. 29. | [[1188] 음식 평론가](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1188-%EC%9D%8C%EC%8B%9D%ED%8F%89%EB%A1%A0%EA%B0%80.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold V |  
 | 42 | 2022. 01. 28. | [[1043] 거짓말](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1043-%EA%B1%B0%EC%A7%93%EB%A7%90.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold IV |  
