@@ -5,6 +5,7 @@
   
 | # |   date   | solve | language | etc. |
 | :---: | :----------: | :---------------: | :---: | :---: |
+| 49 | 2022. 01. 30. | [[10026] 적록색약](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/10026-%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold V |  
 | 48 | 2022. 01. 30. | [[1753] 최단경로](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1753-%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold V |  
 | 47 | 2022. 01. 30. | [[1263] 시간 관리](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1263-%EC%8B%9C%EA%B0%84%EA%B4%80%EB%A6%AC.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver I | 
 | 46 | 2022. 01. 30. | [[1500] 최대 곱](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1500-%EC%B5%9C%EB%8C%80%EA%B3%B1.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver I | 
