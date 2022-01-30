@@ -5,6 +5,7 @@
   
 | # |   date   | solve | language | etc. |
 | :---: | :----------: | :---------------: | :---: | :---: |
+| 48 | 2022. 01. 30. | [[1753] 최단경로](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1753-%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold V |  
 | 47 | 2022. 01. 30. | [[1263] 시간 관리](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1263-%EC%8B%9C%EA%B0%84%EA%B4%80%EB%A6%AC.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver I | 
 | 46 | 2022. 01. 30. | [[1500] 최대 곱](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1500-%EC%B5%9C%EB%8C%80%EA%B3%B1.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver I | 
 | 45 | 2022. 01. 29. | [[1240] 노드사이의 거리](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1240-%EB%85%B8%EB%93%9C%EC%82%AC%EC%9D%B4%EC%9D%98%EA%B1%B0%EB%A6%AC.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold V |  
