@@ -1,7 +1,7 @@
 # 
 # Baekjoon 1500 - 최대 곱
 # Silver 1
-# 최대 곱
+# 수학
 # 
 
 import sys
