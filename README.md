@@ -5,6 +5,7 @@
   
 | # |   date   | solve | language | etc. |
 | :---: | :----------: | :---------------: | :---: | :---: |
+| 54 | 2022. 02. 03. | [[7569] 토마토(3차원)](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/7569-%ED%86%A0%EB%A7%88%ED%86%A0.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold V |  
 | 53 | 2022. 02. 03. | [[2667] 단지번호붙이기](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/2667-%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver I | 
 | 52 | 2022. 02. 01. | [[11403] 경로 찾기](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/11403-%EA%B2%BD%EB%A1%9C%EC%B0%BE%EA%B8%B0.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver I | 
 | 51 | 2022. 01. 31. | [[2212] 센서](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/2212-%EC%84%BC%EC%84%9C.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold V |  
