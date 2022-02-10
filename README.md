@@ -5,6 +5,7 @@
   
 | # |   date   | solve | language | etc. |
 | :---: | :----------: | :---------------: | :---: | :---: |
+| 62 | 2022. 02. 10. | [[2636] 치즈](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/2636-%EC%B9%98%EC%A6%88.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold V |  
 | 61 | 2022. 02. 09. | [[2293] 동전 1](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/2293-%EB%8F%99%EC%A0%841.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold V |  
 | 60 | 2022. 02. 09. | [[2302] 극장 좌석](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/2302-%EA%B7%B9%EC%9E%A5%EC%A2%8C%EC%84%9D.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver I | 
 | 59 | 2022. 02. 08. | [[2225] 합분해](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/2225-%ED%95%A9%EB%B6%84%ED%95%B4.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold V |  
