@@ -5,6 +5,7 @@
   
 | # |   date   | solve | language | etc. |
 | :---: | :----------: | :---------------: | :---: | :---: |
+| 67 | 2022. 02. 15. | [[1525] 퍼즐](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1525-%ED%8D%BC%EC%A6%90.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold II |
 | 66 | 2022. 02. 13. | [[1613] 역사](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1613-%EC%97%AD%EC%82%AC.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold III |
 | 65 | 2022. 02. 11. | [[1937] 욕심쟁이 판다](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1937-%EC%9A%95%EC%8B%AC%EC%9F%81%EC%9D%B4%ED%8C%90%EB%8B%A4.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold III |
 | 64 | 2022. 02. 11. | [[1238] 파티](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1238-%ED%8C%8C%ED%8B%B0.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold III |
