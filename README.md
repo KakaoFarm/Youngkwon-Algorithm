@@ -5,6 +5,7 @@
   
 | # |   date   | solve | language | etc. |
 | :---: | :----------: | :---------------: | :---: | :---: |
+| 68 | 2022. 02. 19. | [[1629] 곱셈](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1629-%EA%B3%B1%EC%85%88.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver I | 
 | 68 | 2022. 02. 18. | [[1167] 트리의 지름](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1167-%ED%8A%B8%EB%A6%AC%EC%9D%98%EC%A7%80%EB%A6%84.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold III |
 | 67 | 2022. 02. 15. | [[1525] 퍼즐](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1525-%ED%8D%BC%EC%A6%90.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold II |
 | 66 | 2022. 02. 13. | [[1613] 역사](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1613-%EC%97%AD%EC%82%AC.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold III |
