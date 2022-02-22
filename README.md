@@ -8,6 +8,7 @@
   
 | # |   Date   | Solved | Language | Detail |
 | :---: | :----------: | :---------------: | :---: | :---: |
+| 73 | 2022. 02. 22. | [[1865] 웜홀](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1865-%EC%9B%9C%ED%99%80.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold III |
 | 72 | 2022. 02. 22. | [[1967] 트리의 지름](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1967-%ED%8A%B8%EB%A6%AC%EC%9D%98%EC%A7%80%EB%A6%84.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold IV |
 | 71 | 2022. 02. 21. | [[1916] 최소비용 구하기](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1916-%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%EA%B5%AC%ED%95%98%EA%B8%B0.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold V |
 | 70 | 2022. 02. 20. | [[1504] 특정한 최단 경로](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1504-%ED%8A%B9%EC%A0%95%ED%95%9C%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold IV |
