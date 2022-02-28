@@ -8,6 +8,7 @@
   
 | # |   Date   | Solved | Language | Detail |
 | :---: | :----------: | :---------------: | :---: | :---: |
+| 76 | 2022. 02. 28. | [[2096] 내려가기](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/2096-%EB%82%B4%EB%A0%A4%EA%B0%80%EA%B8%B0.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold IV |
 | 75 | 2022. 02. 27. | [[1991] 트리순회](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1991-%ED%8A%B8%EB%A6%AC%EC%88%9C%ED%9A%8C.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver I |
 | 74 | 2022. 02. 23. | [[2407] 조합](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/2407-%EC%A1%B0%ED%95%A9.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver III |
 | 73 | 2022. 02. 22. | [[1865] 웜홀](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1865-%EC%9B%9C%ED%99%80.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold III |
