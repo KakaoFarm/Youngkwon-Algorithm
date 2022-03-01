@@ -8,6 +8,7 @@
   
 | # |   Date   | Solved | Language | Detail |
 | :---: | :----------: | :---------------: | :---: | :---: |
+| 78 | 2022. 03. 01. | [[2206] 벽 부수고 이동하기](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/2206-%EB%B2%BD%EB%B6%80%EC%88%98%EA%B3%A0%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold IV |
 | 77 | 2022. 02. 28. | [[11053] 가장 긴 증가하는 부분수열](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/11053-%EA%B0%80%EC%9E%A5%EA%B8%B4%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver II |
 | 76 | 2022. 02. 28. | [[2096] 내려가기](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/2096-%EB%82%B4%EB%A0%A4%EA%B0%80%EA%B8%B0.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold IV |
 | 75 | 2022. 02. 27. | [[1991] 트리순회](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1991-%ED%8A%B8%EB%A6%AC%EC%88%9C%ED%9A%8C.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver I |
