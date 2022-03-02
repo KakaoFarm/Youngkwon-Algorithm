@@ -6,8 +6,9 @@
 <br>
   
   
-| # |   Date   | Solved | Language | Detail |
+| prob |   Date   | Solved | Language | Detail |
 | :---: | :----------: | :---------------: | :---: | :---: |
+| 80 | 2022. 03. 02. | [[1389] 케빈 베이컨의 6단계 법칙](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1389-%EC%BC%80%EB%B9%88%EB%B2%A0%EC%9D%B4%EC%BB%A8%EC%9D%986%EB%8B%A8%EA%B3%84%EB%B2%95%EC%B9%99.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver I |
 | 79 | 2022. 03. 02. | [[1780] 종이의 개수](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1780-%EC%A2%85%EC%9D%B4%EC%9D%98%EA%B0%9C%EC%88%98.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver II |
 | 78 | 2022. 03. 01. | [[2206] 벽 부수고 이동하기](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/2206-%EB%B2%BD%EB%B6%80%EC%88%98%EA%B3%A0%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold IV |
 | 77 | 2022. 02. 28. | [[11053] 가장 긴 증가하는 부분수열](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/11053-%EA%B0%80%EC%9E%A5%EA%B8%B4%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver II |
