@@ -8,6 +8,7 @@
   
 | prob |   Date   | Solved | Language | Detail |
 | :---: | :----------: | :---------------: | :---: | :---: |
+| 82 | 2022. 03. 02. | [[11047] 동전 0](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/11047-%EB%8F%99%EC%A0%840.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver III |
 | 81 | 2022. 03. 02. | [[2579] 계단 오르기](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/2579-%EA%B3%84%EB%8B%A8%EC%98%A4%EB%A5%B4%EA%B8%B0.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver III |
 | 80 | 2022. 03. 02. | [[1389] 케빈 베이컨의 6단계 법칙](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1389-%EC%BC%80%EB%B9%88%EB%B2%A0%EC%9D%B4%EC%BB%A8%EC%9D%986%EB%8B%A8%EA%B3%84%EB%B2%95%EC%B9%99.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver I |
 | 79 | 2022. 03. 02. | [[1780] 종이의 개수](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1780-%EC%A2%85%EC%9D%B4%EC%9D%98%EA%B0%9C%EC%88%98.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver II |
