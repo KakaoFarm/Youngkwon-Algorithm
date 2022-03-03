@@ -8,6 +8,7 @@
   
 | prob |   Date   | Solved | Language | Detail |
 | :---: | :----------: | :---------------: | :---: | :---: |
+| 84 | 2022. 03. 03. | [[1541] 잃어버린 괄호](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1541-%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%EA%B4%84%ED%98%B8.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver II |
 | 83 | 2022. 03. 02. | [[2178] 미로 탐색](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/2178-%EB%AF%B8%EB%A1%9C%ED%83%90%EC%83%89.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver I |
 | 82 | 2022. 03. 02. | [[11047] 동전 0](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/11047-%EB%8F%99%EC%A0%840.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver III |
 | 81 | 2022. 03. 02. | [[2579] 계단 오르기](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/2579-%EA%B3%84%EB%8B%A8%EC%98%A4%EB%A5%B4%EA%B8%B0.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver III |
