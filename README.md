@@ -8,6 +8,7 @@
   
 | prob |   Date   | Solved | Language | Detail |
 | :---: | :----------: | :---------------: | :---: | :---: |
+| 86 | 2022. 03. 03. | [[12852] 1로 만들기 2](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/12852-1%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B02.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver I |
 | 85 | 2022. 03. 03. | [[11725] 트리의 부모 찾기](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/11725-%ED%8A%B8%EB%A6%AC%EC%9D%98%EB%B6%80%EB%AA%A8%EC%B0%BE%EA%B8%B0.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver II |
 | 84 | 2022. 03. 03. | [[1541] 잃어버린 괄호](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1541-%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%EA%B4%84%ED%98%B8.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver II |
 | 83 | 2022. 03. 02. | [[2178] 미로 탐색](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/2178-%EB%AF%B8%EB%A1%9C%ED%83%90%EC%83%89.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Silver I |
