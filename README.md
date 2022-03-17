@@ -8,6 +8,7 @@
   
 | prob |   Date   | Solved | Language | Detail |
 | :---: | :----------: | :---------------: | :---: | :---: |
+| 93 | 2022. 03. 17. | [[16236] 아기상어](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/16236-%EC%95%84%EA%B8%B0%EC%83%81%EC%96%B4.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold III |
 | 92 | 2022. 03. 16. | [[9251] LCS](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/9251-LCS.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold V |
 | 91 | 2022. 03. 16. | [[13549] 숨바꼭질3](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/13594-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%883.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold V |
 | 90 | 2022. 03. 04. | [[1987] 알파벳](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1987-%EC%95%8C%ED%8C%8C%EB%B2%B3.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold IV |
