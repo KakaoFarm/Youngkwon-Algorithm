@@ -4,7 +4,6 @@
 # 그래프 이론
 #
 
-from ctypes import sizeof
 import sys
 from collections import deque
 input = sys.stdin.readline
