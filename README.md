@@ -8,6 +8,7 @@
   
 | prob |   Date   | Solved | Language | Detail |
 | :---: | :----------: | :---------------: | :---: | :---: |
+| 96 | 2022. 03. 18. | [[1915] 가장 큰 정사각형](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1915-%EA%B0%80%EC%9E%A5%ED%81%B0%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold IV |
 | 95 | 2022. 03. 18. | [[1516] 게임 개발](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1516-%EA%B2%8C%EC%9E%84%EA%B0%9C%EB%B0%9C.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold III |
 | 94 | 2022. 03. 17. | [[9466] 텀 프로젝트](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/9466-%ED%85%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold III |
 | 93 | 2022. 03. 17. | [[16236] 아기상어](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/16236-%EC%95%84%EA%B8%B0%EC%83%81%EC%96%B4.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold III |
