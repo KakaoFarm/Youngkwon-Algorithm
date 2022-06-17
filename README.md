@@ -8,6 +8,7 @@
   
 | prob |   Date   | Solved | Language | Detail |
 | :---: | :----------: | :---------------: | :---: | :---: |
+| 100 | 2022. 06. 17. | [[9935] 문자열 폭발](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/9935-%EB%AC%B8%EC%9E%90%EC%97%B4%ED%8F%AD%EB%B0%9C.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold IV |
 | 99 | 2022. 06. 17. | [[12851] 숨바꼭질 2](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/12851-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%882.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold IV |
 | 98 | 2022. 03. 18. | [[2211] 네트워크 복구](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/2211-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EB%B3%B5%EA%B5%AC.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold II |
 | 97 | 2022. 03. 18. | [[17404] RGB 거리 2](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/17404-RGB%EA%B1%B0%EB%A6%AC2.py) | <img src="https://img.shields.io/badge/python-2277bd?style=flat&logo=python&logoColor=fbc107"/> | Baekjoon - Gold IV |
