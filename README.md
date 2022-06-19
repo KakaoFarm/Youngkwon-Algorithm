@@ -8,6 +8,7 @@
   
 | prob |   Date   | Solved | Language | Detail |
 | :---: | :----------: | :---------------: | :---: | :---: |
+| 103 | 2022. 06. 19. | [[1766] 문제집](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1766-%EB%AC%B8%EC%A0%9C%EC%A7%91.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold II |
 | 102 | 2022. 06. 18. | [[1202] 보석 도둑](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1202.%EB%B3%B4%EC%84%9D%EB%8F%84%EB%91%91.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold II |
 | 101 | 2022. 06. 18. | [[15686] 치킨 배달](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/15686-%EC%B9%98%ED%82%A8%EB%B0%B0%EB%8B%AC.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold V |
 | 100 | 2022. 06. 17. | [[9935] 문자열 폭발](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/9935-%EB%AC%B8%EC%9E%90%EC%97%B4%ED%8F%AD%EB%B0%9C.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold IV |
