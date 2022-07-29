@@ -8,6 +8,7 @@
   
 | prob |   Date   | Solved | Language | Detail |
 | :---: | :----------: | :---------------: | :---: | :---: |
+| 107 | 2022. 07. 29. | [[9328] 열쇠](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/9328-%EC%97%B4%EC%87%A0.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold I |
 | 106 | 2022. 07. 29. | [[2887] 행성 터널](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/2887-%ED%96%89%EC%84%B1%ED%84%B0%EB%84%90.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Platinum V |
 | 105 | 2022. 07. 28. | [[1647] 도시 분할 계획](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1647-%EB%8F%84%EC%8B%9C%EB%B6%84%ED%95%A0%EA%B3%84%ED%9A%8D.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold IV |
 | 104 | 2022. 07. 26. | [[1197] 최소 스패닝 트리](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1197-%EC%B5%9C%EC%86%8C%EC%8A%A4%ED%8C%A8%EB%8B%9D%ED%8A%B8%EB%A6%AC.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold IV |
