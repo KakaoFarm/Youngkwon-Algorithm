@@ -1,6 +1,6 @@
 #
 # Baekjoon 9376 - 탈옥
-# Gold 3
+# Platinum 4
 # 그래프 이론
 #
 
