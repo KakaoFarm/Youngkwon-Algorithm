@@ -8,6 +8,7 @@
   
 | prob |   Date   | Solved | Language | Detail |
 | :---: | :----------: | :---------------: | :---: | :---: |
+| 109 | 2022. 08. 04. | [[4386] 별자리 만들기](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/4386-%EB%B3%84%EC%9E%90%EB%A6%AC%EB%A7%8C%EB%93%A4%EA%B8%B0.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold IV |
 | 108 | 2022. 08. 03. | [[10942] 팰린드롬?](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/10942-%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%3F.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold IV |
 | 107 | 2022. 07. 29. | [[9328] 열쇠](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/9328-%EC%97%B4%EC%87%A0.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold I |
 | 106 | 2022. 07. 29. | [[2887] 행성 터널](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/2887-%ED%96%89%EC%84%B1%ED%84%B0%EB%84%90.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Platinum V |
