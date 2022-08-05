@@ -8,6 +8,7 @@
   
 | prob |   Date   | Solved | Language | Detail |
 | :---: | :----------: | :---------------: | :---: | :---: |
+| 111 | 2022. 08. 05. | [[2252] 줄 세우기](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/2252-%EC%A4%84%EC%84%B8%EC%9A%B0%EA%B8%B0.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold III |
 | 110 | 2022. 08. 05. | [[16724] 피리 부는 사나이](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/16724-%ED%94%BC%EB%A6%AC%EB%B6%80%EB%8A%94%EC%82%AC%EB%82%98%EC%9D%B4.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold III |
 | 109 | 2022. 08. 04. | [[4386] 별자리 만들기](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/4386-%EB%B3%84%EC%9E%90%EB%A6%AC%EB%A7%8C%EB%93%A4%EA%B8%B0.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold IV |
 | 108 | 2022. 08. 03. | [[10942] 팰린드롬?](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/10942-%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%3F.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold IV |
