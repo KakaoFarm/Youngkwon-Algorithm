@@ -8,6 +8,7 @@
   
 | prob |   Date   | Solved | Language | Detail |
 | :---: | :----------: | :---------------: | :---: | :---: |
+| 119 | 2022. 09. 23. | [[2294] 동전 2](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/2294-%EB%8F%99%EC%A0%842.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold V |
 | 118 | 2022. 09. 23. | [[12015] LCS2](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/12015-가장긴증가하는부분수열2.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold II |
 | 117 | 2022. 09. 23. | [[2473] 세 용액](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/2473-%EC%84%B8%EC%9A%A9%EC%95%A1.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold III |
 | 116 | 2022. 09. 23. | [[2467] 용액](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/2467-%EC%9A%A9%EC%95%A1.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold V |
