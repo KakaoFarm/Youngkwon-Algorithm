@@ -8,6 +8,7 @@
   
 | prob |   Date   | Solved | Language | Detail |
 | :---: | :----------: | :---------------: | :---: | :---: |
+| 116 | 2022. 09. 23. | [[2467] 용액](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/2467-%EC%9A%A9%EC%95%A1.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold V |
 | 115 | 2022. 09. 23. | [[14502] 연구소](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/14502-%EC%97%B0%EA%B5%AC%EC%86%8C.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold IV |
 | 114 | 2022. 09. 20. | [[16234] 인구 이동](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/16234-%EC%9D%B8%EA%B5%AC%EC%9D%B4%EB%8F%99.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold V |
 | 113 | 2022. 09. 07. | [[12865] 평범한 배낭](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/12865-%ED%8F%89%EB%B2%94%ED%95%9C%EB%B0%B0%EB%8낭2%AD.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold V |
