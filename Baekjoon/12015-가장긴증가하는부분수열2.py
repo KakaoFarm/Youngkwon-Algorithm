@@ -1,7 +1,7 @@
 #
 # Baekjoon 12015 - 가장 긴 증가하는 부분 수열 2
 # Gold 2
-#
+# 이분 탐색
 #
 
 import sys
