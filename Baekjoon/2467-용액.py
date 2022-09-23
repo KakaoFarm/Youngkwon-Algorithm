@@ -1,7 +1,7 @@
 #
 # Baekjoon 2467 - 용액
 # Gold 5
-# 이분 탐색
+# 투 포인터
 #
 
 import sys
