@@ -8,6 +8,7 @@
   
 | prob |   Date   | Solved | Language | Detail |
 | :---: | :----------: | :---------------: | :---: | :---: |
+| 121 | 2022. 09. 24. | [[19238] 스타트 택시](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/19238-%EC%8A%A4%ED%83%80%ED%8A%B8%ED%83%9D%EC%8B%9C.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold II |
 | 120 | 2022. 09. 23. | [[4781] 사탕 가게](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/4781-%EC%82%AC%ED%83%95%EA%B0%80%EA%B2%8C.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold IV |
 | 119 | 2022. 09. 23. | [[2294] 동전 2](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/2294-%EB%8F%99%EC%A0%842.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold V |
 | 118 | 2022. 09. 23. | [[12015] LCS2](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/12015-가장긴증가하는부분수열2.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold II |
