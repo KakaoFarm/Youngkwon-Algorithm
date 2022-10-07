@@ -19,215 +19,104 @@ def get_answer():
     return ans
 
 
+def left_visit(row, col):
+    for c in range(col - 1, -1, -1):
+        if temp_map[row][c] == 0:
+            temp_map[row][c] = '#'
+        if temp_map[row][c] == 6:
+            break
+
+
+def right_visit(row, col):
+    for c in range(col + 1, M):
+        if temp_map[row][c] == 0:
+            temp_map[row][c] = '#'
+        if temp_map[row][c] == 6:
+            break
+
+
+def up_visit(row, col):
+    for r in range(row - 1, -1, -1):
+        if temp_map[r][col] == 0:
+            temp_map[r][col] = '#'
+        if temp_map[r][col] == 6:
+            break
+
+
+def down_visit(row, col):
+    for r in range(row + 1, N):
+        if temp_map[r][col] == 0:
+            temp_map[r][col] = '#'
+        if temp_map[r][col] == 6:
+            break
+
+
 def set_cam(num, row, col, dic):
     if num == 1:
         if dic == 0:
-            for c in range(col + 1, M):
-                if temp_map[row][c] == 0:
-                    temp_map[row][c] = '#'
-                if temp_map[row][c] == 6:
-                    break
+            right_visit(row, col)
 
         elif dic == 1:
-            for r in range(row - 1, -1, -1):
-                if temp_map[r][col] == 0:
-                    temp_map[r][col] = '#'
-                if temp_map[r][col] == 6:
-                    break
+            up_visit(row, col)
 
         elif dic == 2:
-            for c in range(col - 1, -1, -1):
-                if temp_map[row][c] == 0:
-                    temp_map[row][c] = '#'
-                if temp_map[row][c] == 6:
-                    break
+            left_visit(row, col)
 
         elif dic == 3:
-            for r in range(row + 1, N):
-                if temp_map[r][col] == 0:
-                    temp_map[r][col] = '#'
-                if temp_map[r][col] == 6:
-                    break
+            down_visit(row, col)
 
     elif num == 2:
         if dic == 0:
-            for c in range(col + 1, M):
-                if temp_map[row][c] == 0:
-                    temp_map[row][c] = '#'
-                if temp_map[row][c] == 6:
-                    break
-            for c in range(col - 1, -1, -1):
-                if temp_map[row][c] == 0:
-                    temp_map[row][c] = '#'
-                if temp_map[row][c] == 6:
-                    break
+            right_visit(row, col)
+            left_visit(row, col)
 
         elif dic == 1:
-            for r in range(row - 1, -1, -1):
-                if temp_map[r][col] == 0:
-                    temp_map[r][col] = '#'
-                if temp_map[r][col] == 6:
-                    break
-            for r in range(row + 1, N):
-                if temp_map[r][col] == 0:
-                    temp_map[r][col] = '#'
-                if temp_map[r][col] == 6:
-                    break
+            up_visit(row, col)
+            down_visit(row, col)
 
     elif num == 3:
         if dic == 0:
-            for c in range(col + 1, M):
-                if temp_map[row][c] == 0:
-                    temp_map[row][c] = '#'
-                if temp_map[row][c] == 6:
-                    break
-
-            for r in range(row - 1, -1, -1):
-                if temp_map[r][col] == 0:
-                    temp_map[r][col] = '#'
-                if temp_map[r][col] == 6:
-                    break
+            right_visit(row, col)
+            up_visit(row, col)
 
         elif dic == 1:
-            for r in range(row - 1, -1, -1):
-                if temp_map[r][col] == 0:
-                    temp_map[r][col] = '#'
-                if temp_map[r][col] == 6:
-                    break
-
-            for c in range(col - 1, -1, -1):
-                if temp_map[row][c] == 0:
-                    temp_map[row][c] = '#'
-                if temp_map[row][c] == 6:
-                    break
+            up_visit(row, col)
+            left_visit(row, col)
 
         elif dic == 2:
-            for c in range(col - 1, -1, -1):
-                if temp_map[row][c] == 0:
-                    temp_map[row][c] = '#'
-                if temp_map[row][c] == 6:
-                    break
-
-            for r in range(row + 1, N):
-                if temp_map[r][col] == 0:
-                    temp_map[r][col] = '#'
-                if temp_map[r][col] == 6:
-                    break
+            left_visit(row, col)
+            down_visit(row, col)
 
         elif dic == 3:
-            for r in range(row + 1, N):
-                if temp_map[r][col] == 0:
-                    temp_map[r][col] = '#'
-                if temp_map[r][col] == 6:
-                    break
-
-            for c in range(col + 1, M):
-                if temp_map[row][c] == 0:
-                    temp_map[row][c] = '#'
-                if temp_map[row][c] == 6:
-                    break
+            down_visit(row, col)
+            right_visit(row, col)
 
     elif num == 4:
         if dic == 0:
-            for c in range(col - 1, -1, -1):
-                if temp_map[row][c] == 0:
-                    temp_map[row][c] = '#'
-                if temp_map[row][c] == 6:
-                    break
-
-            for c in range(col + 1, M):
-                if temp_map[row][c] == 0:
-                    temp_map[row][c] = '#'
-                if temp_map[row][c] == 6:
-                    break
-
-            for r in range(row - 1, -1, -1):
-                if temp_map[r][col] == 0:
-                    temp_map[r][col] = '#'
-                if temp_map[r][col] == 6:
-                    break
+            left_visit(row, col)
+            right_visit(row, col)
+            up_visit(row, col)
 
         elif dic == 1:
-            for r in range(row - 1, -1, -1):
-                if temp_map[r][col] == 0:
-                    temp_map[r][col] = '#'
-                if temp_map[r][col] == 6:
-                    break
-
-            for r in range(row + 1, N):
-                if temp_map[r][col] == 0:
-                    temp_map[r][col] = '#'
-                if temp_map[r][col] == 6:
-                    break
-
-            for c in range(col - 1, -1, -1):
-                if temp_map[row][c] == 0:
-                    temp_map[row][c] = '#'
-                if temp_map[row][c] == 6:
-                    break
+            up_visit(row, col)
+            down_visit(row, col)
+            left_visit(row, col)
 
         elif dic == 2:
-            for c in range(col - 1, -1, -1):
-                if temp_map[row][c] == 0:
-                    temp_map[row][c] = '#'
-                if temp_map[row][c] == 6:
-                    break
-
-            for c in range(col + 1, M):
-                if temp_map[row][c] == 0:
-                    temp_map[row][c] = '#'
-                if temp_map[row][c] == 6:
-                    break
-
-            for r in range(row + 1, N):
-                if temp_map[r][col] == 0:
-                    temp_map[r][col] = '#'
-                if temp_map[r][col] == 6:
-                    break
+            left_visit(row, col)
+            right_visit(row, col)
+            down_visit(row, col)
 
         elif dic == 3:
-            for r in range(row - 1, -1, -1):
-                if temp_map[r][col] == 0:
-                    temp_map[r][col] = '#'
-                if temp_map[r][col] == 6:
-                    break
-
-            for r in range(row + 1, N):
-                if temp_map[r][col] == 0:
-                    temp_map[r][col] = '#'
-                if temp_map[r][col] == 6:
-                    break
-
-            for c in range(col + 1, M):
-                if temp_map[row][c] == 0:
-                    temp_map[row][c] = '#'
-                if temp_map[row][c] == 6:
-                    break
+            up_visit(row, col)
+            down_visit(row, col)
+            right_visit(row, col)
 
     elif num == 5:
-        for r in range(row - 1, -1, -1):
-            if temp_map[r][col] == 0:
-                temp_map[r][col] = '#'
-            if temp_map[r][col] == 6:
-                break
-
-        for r in range(row + 1, N):
-            if temp_map[r][col] == 0:
-                temp_map[r][col] = '#'
-            if temp_map[r][col] == 6:
-                break
-
-        for c in range(col - 1, -1, -1):
-            if temp_map[row][c] == 0:
-                temp_map[row][c] = '#'
-            if temp_map[row][c] == 6:
-                break
-
-        for c in range(col + 1, M):
-            if temp_map[row][c] == 0:
-                temp_map[row][c] = '#'
-            if temp_map[row][c] == 6:
-                break
+        up_visit(row, col)
+        down_visit(row, col)
+        left_visit(row, col)
+        right_visit(row, col)
 
 
 N, M = map(int, input().split())
