@@ -8,6 +8,7 @@
   
 | prob |   Date   | Solved | Language | Detail |
 | :---: | :----------: | :---------------: | :---: | :---: |
+| 123 | 2022. 10. 07. | [[15683] 감시](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/15683-%EA%B0%90%EC%8B%9C.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | 삼성 SW 역량 테스트 |
 | 122 | 2022. 09. 25. | [[14503] 로봇 청소기](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/14503-%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | 삼성 SW 역량 테스트 |
 | 121 | 2022. 09. 24. | [[19238] 스타트 택시](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/19238-%EC%8A%A4%ED%83%80%ED%8A%B8%ED%83%9D%EC%8B%9C.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold II |
 | 120 | 2022. 09. 23. | [[4781] 사탕 가게](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/4781-%EC%82%AC%ED%83%95%EA%B0%80%EA%B2%8C.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold IV |
