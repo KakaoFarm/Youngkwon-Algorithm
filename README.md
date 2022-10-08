@@ -8,6 +8,7 @@
   
 | prob |   Date   | Solved | Language | Detail |
 | :---: | :----------: | :---------------: | :---: | :---: |
+| 127 | 2022. 10. 08. | [[14267] 회사 문화1](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/14267-%ED%9A%8C%EC%82%AC%EB%AC%B8%ED%99%941.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold IV |
 | 126 | 2022. 10. 08. | [[2533] 사회망 서비스(SNS)](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/2533-%EC%82%AC%ED%9A%8C%EB%A7%9D%EC%84%9C%EB%B9%84%EC%8A%A4.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold III |
 | 125 | 2022. 10. 08. | [[17143] 낚시왕](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/17143-%EB%82%9A%EC%8B%9C%EC%99%95.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | 삼성 SW 역량 테스트 |
 | 124 | 2022. 10. 07. | [[14500] 테트로미노](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/14500-%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | 삼성 SW 역량 테스트 |
