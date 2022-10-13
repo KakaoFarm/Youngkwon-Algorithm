@@ -1,9 +1,10 @@
 #
 # Baekjoon 19236 - 청소년 상어
 # Gold 2
-# 그래프 이론
+# 구현, 백트래킹
 #
 
+import copy
 from queue import deque
 
 pos = [[0, 0] for _ in range(17)]
@@ -60,15 +61,8 @@ while q:
     _board[shark_i][shark_j][0] = -1
     shark_direction = _board[shark_i][shark_j][1]
     eat.append(eat_fish_num)
-    print("append eat count:", eat)
     answer = max(answer, sum(eat))
-    print("before move")
-    for row in _board:
-        print(row)
     _board, _pos = fish_move(_board, _pos)
-    print("after move")
-    for row in _board:
-        print(row)
 
     for step in range(1, 4):
         new_shark_i = shark_i + (dx[shark_direction] * step)
@@ -79,12 +73,10 @@ while q:
 
         if _board[new_shark_i][new_shark_j][0] in range(1, 17):
 
-            new_board = [each[:] for each in _board]
+            new_board = copy.deepcopy(_board)
             new_pos = []
             for row in _pos:
                 new_pos.append(row)
-            print("append", (shark_i, shark_j, new_shark_i, new_shark_j, new_board,
-                             new_pos, eat))
             q.append((shark_i, shark_j, new_shark_i, new_shark_j, new_board,
                      new_pos, eat))
 
