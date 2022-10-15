@@ -8,6 +8,7 @@
   
 | prob |   Date   | Solved | Language | Detail |
 | :---: | :----------: | :---------------: | :---: | :---: |
+| 133 | 2022. 10. 14. | [[CODE TREE] 예술성](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/%EC%82%BC%EC%84%B1-2022-%EC%83%81%EB%B0%98%EA%B8%B0-%EC%98%A4%EC%A0%84-%EC%98%88%EC%88%A0%EC%84%B1.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | 삼성 SW 역량 테스트 - 2022 上 오전 |
 | 132 | 2022. 10. 14. | [[CODE TREE] 술래 잡기](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/%EC%82%BC%EC%84%B1-2022-%EC%83%81%EB%B0%98%EA%B8%B0-%EC%98%A4%EC%A0%84-%EC%88%A0%EB%9E%98%EC%9E%A1%EA%B8%B0.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | 삼성 SW 역량 테스트 - 2022 上 오전 |
 | 131 | 2022. 10. 14. | [[21611] 마법사 상어 블리자드](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/21611-%EB%A7%88%EB%B2%95%EC%82%AC%EC%83%81%EC%96%B4%EC%99%80%EB%B8%94%EB%A6%AC%EC%9E%90%EB%93%9C.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | 삼성 SW 역량 테스트 - Gold I |
 | 130 | 2022. 10. 14. | [[20057] 마법사 상어 토네이도](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/20057-%EB%A7%88%EB%B2%95%EC%82%AC%EC%83%81%EC%96%B4%EC%99%80%ED%86%A0%EB%84%A4%EC%9D%B4%EB%8F%84.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | 삼성 SW 역량 테스트 - Gold III |
