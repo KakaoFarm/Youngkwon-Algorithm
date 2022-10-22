@@ -8,6 +8,7 @@
   
 | prob |   Date   | Solved | Language | Detail |
 | :---: | :----------: | :---------------: | :---: | :---: |
+| 137 | 2022. 10. 22. | [[13460] 구슬 탈출 2](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/13460-%EA%B5%AC%EC%8A%AC%ED%83%88%EC%B6%9C2.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold I |
 | 136 | 2022. 10. 22. | [[2623] 음악프로그램](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/2623-%EC%9D%8C%EC%95%85%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold III |
 | 135 | 2022. 10. 21. | [[14725] 개미굴](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/14725-%EA%B0%9C%EB%AF%B8%EA%B5%B4.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold III |
 | 134 | 2022. 10. 15. | [[CODE TREE] 꼬리잡기놀이](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/%EC%82%BC%EC%84%B1-2022-%EC%83%81%EB%B0%98%EA%B8%B0-%EC%98%A4%ED%9B%84-%EA%BC%AC%EB%A6%AC%EC%9E%A1%EA%B8%B0%EB%86%80%EC%9D%B4.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | 삼성 SW 역량 테스트 - 2022 上 오후 |
