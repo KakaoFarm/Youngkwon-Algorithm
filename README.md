@@ -3,11 +3,12 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youngkwon02)](https://solved.ac/youngkwon02/)
   
 # 🦋 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺 𝗣𝗿𝗼𝗯𝗹𝗲𝗺 𝗦𝗼𝗹𝘃𝗶𝗻𝗴 🦋
-<br>
-  
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoungkwon02&count_bg=%23E9388E&title_bg=%23181818&icon=maserati.svg&icon_color=%2300DBFF&title=hits&edge_flat=false)
   
 | prob |   Date   | Solved | Language | Detail |
 | :---: | :----------: | :---------------: | :---: | :---: |
+| 140 | 2022. 10. 22. | [[11779] 최소비용 구하기 2](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/11779-%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%EA%B5%AC%ED%95%98%EA%B8%B02.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold III |
 | 139 | 2022. 10. 22. | [[9252] LCS 2](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/9252-LCS2.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold IV |
 | 138 | 2022. 10. 22. | [[1208] 부분 수열의 합 2](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1208-%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%ED%95%A92.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold I |
 | 137 | 2022. 10. 22. | [[13460] 구슬 탈출 2](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/13460-%EA%B5%AC%EC%8A%AC%ED%83%88%EC%B6%9C2.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold I |
