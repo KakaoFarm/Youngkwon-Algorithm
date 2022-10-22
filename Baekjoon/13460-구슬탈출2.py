@@ -1,7 +1,7 @@
 #
 # Baekjoon 13460 - 구슬 탈출 2
 # Gold 1
-#
+# 구현, 그래프 이론
 #
 
 from queue import deque
