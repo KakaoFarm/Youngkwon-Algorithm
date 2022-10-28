@@ -3,8 +3,6 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youngkwon02)](https://solved.ac/youngkwon02/)
   
 # 🦋 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺 𝗣𝗿𝗼𝗯𝗹𝗲𝗺 𝗦𝗼𝗹𝘃𝗶𝗻𝗴 🦋
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoungkwon02&count_bg=%23E9388E&title_bg=%23181818&icon=maserati.svg&icon_color=%2300DBFF&title=hits&edge_flat=false)
   
 | prob |   Date   | Solved | Language | Detail |
 | :---: | :----------: | :---------------: | :---: | :---: |
