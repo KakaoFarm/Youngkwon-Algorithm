@@ -8,6 +8,7 @@
   
 | prob |   Date   | Solved | Language | Detail |
 | :---: | :----------: | :---------------: | :---: | :---: |
+| 143 | 2022. 10. 28. | [[15663] N과 M (9)](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/15663-N%EA%B3%BCM(9).py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Silver II |
 | 142 | 2022. 10. 28. | [[16953] A → B](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/16953-A%E2%86%92B.cpp) | <img src="https://img.shields.io/badge/C++-23323330?style=for-the-badge&logo=c%2B%2B&logoColor=efefef"/> | Baekjoon - Silver II |
 | 141 | 2022. 10. 27. | [[1162] 도로포장](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/1162-%EB%8F%84%EB%A1%9C%ED%8F%AC%EC%9E%A5.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold I |
 | 140 | 2022. 10. 22. | [[11779] 최소비용 구하기 2](https://github.com/KakaoFarm/Youngkwon-Algorithm/blob/main/Baekjoon/11779-%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%EA%B5%AC%ED%95%98%EA%B8%B02.py) | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> | Baekjoon - Gold III |
